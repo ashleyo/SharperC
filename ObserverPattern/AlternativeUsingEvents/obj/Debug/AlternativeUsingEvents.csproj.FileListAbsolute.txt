@@ -1,0 +1,6 @@
+E:\Users\ashley\Documents\Visual Studio 2015\Projects\DesignPatterns\ObserverPattern\AlternativeUsingEvents\obj\Debug\AlternativeUsingEvents.csprojResolveAssemblyReference.cache
+E:\Users\ashley\Documents\Visual Studio 2015\Projects\DesignPatterns\ObserverPattern\AlternativeUsingEvents\bin\Debug\AlternativeUsingEvents.exe.config
+E:\Users\ashley\Documents\Visual Studio 2015\Projects\DesignPatterns\ObserverPattern\AlternativeUsingEvents\bin\Debug\AlternativeUsingEvents.exe
+E:\Users\ashley\Documents\Visual Studio 2015\Projects\DesignPatterns\ObserverPattern\AlternativeUsingEvents\bin\Debug\AlternativeUsingEvents.pdb
+E:\Users\ashley\Documents\Visual Studio 2015\Projects\DesignPatterns\ObserverPattern\AlternativeUsingEvents\obj\Debug\AlternativeUsingEvents.exe
+E:\Users\ashley\Documents\Visual Studio 2015\Projects\DesignPatterns\ObserverPattern\AlternativeUsingEvents\obj\Debug\AlternativeUsingEvents.pdb
